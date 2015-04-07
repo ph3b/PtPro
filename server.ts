@@ -1,6 +1,5 @@
 /// <reference path="typings/tsd.d.ts" />
-import serverModule = require("./app");
-var TodoListBackend = serverModule.TodoListBackend;
+import TodoListBackend = require("./app");
 
 var TodoListServer = new TodoListBackend('dev', 3000);
 

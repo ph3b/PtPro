@@ -13,6 +13,24 @@
     },
     "expect.js/expect.js.d.ts": {
       "commit": "65ea56c919fd95dcd0ca3c59c9aa5eaa99c86885"
+    },
+    "mysql/mysql.d.ts": {
+      "commit": "437e1f1f2e0d229a94ee766d128f8550f462274b"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "437e1f1f2e0d229a94ee766d128f8550f462274b"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "437e1f1f2e0d229a94ee766d128f8550f462274b"
+    },
+    "superagent/superagent.d.ts": {
+      "commit": "437e1f1f2e0d229a94ee766d128f8550f462274b"
+    },
+    "supertest/supertest.d.ts": {
+      "commit": "437e1f1f2e0d229a94ee766d128f8550f462274b"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "437e1f1f2e0d229a94ee766d128f8550f462274b"
     }
   }
 }
